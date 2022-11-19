@@ -1,0 +1,11 @@
+streamlit
+protobuf==3.20.*
+tensorflow
+torch
+transformers
+unidecode
+nltk
+numpy
+pandas
+Pillow
+gensim
